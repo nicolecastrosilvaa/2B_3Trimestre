@@ -1,5 +1,5 @@
 body {
-background-color: bisque;
+background-color: rgb(143, 241, 143);
 }
 footer {
     background-color: black;
@@ -47,5 +47,18 @@ footer p{
         margin-top: 1rem;
         padding: 2rem;
         margin-top: 4rem;
-        }
+        }.cartão{
+            margin: 1rem 1rem;
+    
+    …            width: 100%;
+                }
+    .cartao__conteudo__resposta {
+        transform: rotateY(180deg)
 
+        .cartão{
+            margin: 1rem 1rem;
+    
+    …            width: 100%;
+                }
+    .cartao__conteudo__resposta {
+        transform: rotateY(180deg)
